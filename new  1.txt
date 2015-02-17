@@ -1,0 +1,40 @@
+Michael@Michael-HP ~/cse/cse455/PSP3
+$ java Loc Loc.java
+using file Loc.java 3.881 kB
+Class Class
+LOC Total 218
+Method 472
+Method 39
+ Class Class
+ LOC Total 167
+ Method 111
+  Class Class
+  LOC Total 0
+  Class Class
+  LOC Total 156
+   Class Class
+   LOC Total 156
+   Method 80
+   Method 174
+   Method 144
+   Method 50
+    Class Class
+    LOC Total 52
+    Method 523
+    Class Class
+    LOC Total 58
+    Method 5
+     Class Class
+     LOC Total 579
+     Method 125
+     Method 22
+     Method 43
+      Class Class
+      LOC Total 0
+      Class Class
+      LOC Total 0
+      Class Class
+      LOC Total 0
+     Class Class
+     LOC Total 5
+     Method 5
